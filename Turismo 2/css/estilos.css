@@ -1,0 +1,21 @@
+header{
+    background-color:rgb(42, 142, 165);
+}
+
+.nosotros{
+    text-align: justify;
+    line-height: 2em;
+}
+
+.d-block {
+    width: 600px;
+    height: 400px;
+
+}
+
+.imagen{
+
+    width: 500px;
+    height: 300px;
+}
+
